@@ -5,6 +5,6 @@
     <title> abes college</title>
 </head>
 <body>
-    <h2>hello this is my first</h2>
+    <p>hello this is my first</p>
 </body>
 </html>
